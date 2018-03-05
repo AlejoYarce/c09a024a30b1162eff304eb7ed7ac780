@@ -33,3 +33,9 @@ $ npm install
 $ npm run start
 
 ```
+## Screen Shots
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/c09a024a30b1162eff304eb7ed7ac780/master/public/Mobile_1.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/c09a024a30b1162eff304eb7ed7ac780/master/public/Mobile_2.png)
+
+## ![alt text](https://raw.githubusercontent.com/AlejoYarce/c09a024a30b1162eff304eb7ed7ac780/master/public/Desktop.png)
