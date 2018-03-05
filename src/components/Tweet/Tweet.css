@@ -1,6 +1,6 @@
 .tweetContainer {
   margin: 3vh auto;
-  border: 1px solid #eee;
+  border: 1px solid #EEE;
   padding: 25px 50px;
   border-radius: 5px;
   max-width: 500px;
@@ -38,7 +38,7 @@
 
 .tweetActions {
   margin-top: 20px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #EEE;
   padding-top: 10px;
 }
 

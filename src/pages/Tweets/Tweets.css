@@ -1,6 +1,10 @@
-.buttonContainer {
-  margin: 10px auto;
+.titleContainer {
+  margin: 0px auto;
   width: 180px;
+}
+
+.headerTitle {
+  text-align: center;
 }
 
 .refreshButton {
@@ -13,6 +17,31 @@
   width: 100%;
 }
 
-.headerTitle {
-  text-align: center;
+.postContainer {
+  height: 90px;
+  margin: 15px auto;
+  width: 350px;
+}
+
+.newTweetButton {
+  background-color: #00ACED;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  float: right;
+  font-size: 14px;
+  width: 140px;
+}
+
+.contentInput {
+  border: 1px solid #00ACED;
+  border-radius: 8px;
+  font-size: 13px;
+  height: 50px;
+  width: 340px;
+}
+
+.contentInput:placeholder {
+  color: #999;
 }

@@ -2,6 +2,7 @@ const initialState = {
   profile: null,
   accessToken: null,
   tweets: null,
+  content: '',
 };
 
 const reducer = (state = initialState, action) => {
@@ -31,6 +32,11 @@ const reducer = (state = initialState, action) => {
         ...state,
         profile: profileParsed,
       };
+    case 'SET_CONTENT':
+      return {
+        ...state,
+        content: action.content,
+      }
   }
   return state;
 };
