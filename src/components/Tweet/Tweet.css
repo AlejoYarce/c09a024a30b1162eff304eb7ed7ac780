@@ -1,0 +1,49 @@
+.tweetContainer {
+  margin: 3vh auto;
+  border: 1px solid #eee;
+  padding: 25px 50px;
+  border-radius: 5px;
+  max-width: 500px;
+  background: white;
+}
+
+.tweetUser {
+  font-weight: bold;
+  padding-top: 9px;
+}
+
+.tweetUserAvatar {
+  border-radius: 5px;
+  float: left;
+  margin-right: 10px;
+}
+
+.tweetUserName {
+  font-weight: bold;
+  padding-top: 9px;
+}
+
+.tweetUserName span {
+  font-weight: normal;
+  color: #999;
+  font-size: 0.8em;
+  display: block;
+}
+
+.tweetBody {
+  margin: 20px 0 5px;
+  font-size: 1.5em;
+
+}
+
+.tweetActions {
+  margin-top: 20px;
+  border-top: 1px solid #eee;
+  padding-top: 10px;
+}
+
+.tweetActions span {
+  color: #999;
+  font-size: 0.8em;
+  text-transform: uppercase;
+}

@@ -1,0 +1,15 @@
+.loginContainer {
+  margin: 200px auto;
+  width: 300px;
+}
+
+.loginButton {
+  background-color: #00ACED;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  height: 40px;
+  font-size: 16px;
+  margin-left: 20px;
+  width: 260px;
+}

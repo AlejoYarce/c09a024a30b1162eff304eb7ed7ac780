@@ -1,0 +1,27 @@
+.toolbar {
+  background-color: #0084B4;
+  color: white;
+  font-weight: 600;
+  height: 40px;
+  padding-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.toolbarProfileImg {
+  float: left;
+  margin: -15px 10px;
+  border-radius: 30px;
+}
+
+.logoutButton {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  float: right;
+  font-size: 15px;
+  height: 30px;
+  margin: 0px 20px;
+  margin-top: -7px;
+}

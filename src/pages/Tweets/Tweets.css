@@ -1,0 +1,18 @@
+.buttonContainer {
+  margin: 10px auto;
+  width: 180px;
+}
+
+.refreshButton {
+  background-color: #00ACED;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  font-size: 14px;
+  width: 100%;
+}
+
+.headerTitle {
+  text-align: center;
+}
